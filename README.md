@@ -46,7 +46,6 @@ src/
 │ └── globals.css
 └── types/
 └── index.d.ts
-
 .env.local
 next.config.js
 tailwind.config.js
